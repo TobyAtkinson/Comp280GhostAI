@@ -110,7 +110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   patrollingSpeed: 3.2
-  chasingSpeed: 2.8
+  chasingSpeed: 2.7
   fleeingSpeed: 1
   enragedSpeed: 3
   respawnTime: 10
