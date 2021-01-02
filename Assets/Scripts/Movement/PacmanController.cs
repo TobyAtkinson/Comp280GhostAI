@@ -45,6 +45,7 @@ public class PacmanController : MonoBehaviour
         {
             victoryUI.SetActive(false);
         }
+        Time.timeScale = 1f;
         startingPosition = this.transform.position;
     }
 
